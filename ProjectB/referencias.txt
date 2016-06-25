@@ -1,0 +1,14 @@
+bitwise operation
+http://www.oocities.org/codeteacher/x86asm/asml1004.html
+
+
+vector de interrupciones
+https://en.wikipedia.org/wiki/BIOS_interrupt_call
+
+
+assembly
+http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+
+
+multiplicacion y division 
+http://www.slideshare.net/HassnainJamil/mul-div-instructions-in-assembly-language
